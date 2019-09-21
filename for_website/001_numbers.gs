@@ -1,3 +1,4 @@
+//Menu create
 function onOpen() {
   var ui = SpreadsheetApp.getUi();
   ui.createMenu('Custom Numbers API Menu')
